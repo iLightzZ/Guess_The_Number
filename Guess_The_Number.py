@@ -1,5 +1,3 @@
-#C04-15
-
 #Guess The Number game
 
 import random
